@@ -1,0 +1,7 @@
+{
+    "name": "CTR Static Nonce Lab",
+    "description": "The hacking lab for static nonce in CTR mode",
+    "repository": "https://github.com/suam-team/ctr-static-nonce-lab",
+    "logo": "https://suam.wtf/favicon-32x32.png",
+    "keywords": ["hacking", "lab", "crypto"]
+}
