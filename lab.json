@@ -1,0 +1,6 @@
+{
+    "name": "CTR Static Nonce Lab",
+    "category": "Crypto",
+    "flag": "81a27205bb1951b578e674815647a52c,e34f4700bc79e6deb12f1084fce2cb79,126ee621d19bb458b919467cac140bd2,e506107aecc2851f40751ed1a4fc6c3cf98a73f96cbd292414617ad081745dc5668541c094285c01d4099a38a7daf89f17606f063375ccb5151bbe01,45f0c98b7662d7c2efdd283e3645530d",
+    "detail": "The hacking lab for static nonce in CTR mode"
+}
