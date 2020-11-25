@@ -4,7 +4,7 @@ The hacking lab for static nonce in CTR mode
 
 ## Let Play
 
-Please hack this lab on your own environment. And then, get a real flag [HERE!](https://ctr-static-nonce-lab.herokuapp.com/).
+Please find a bud in the [app.py](/app.py) file. Then, hack this lab on your own environment. Next, get a real flag [hhttps://ctr-static-nonce-lab.herokuapp.com/](https://ctr-static-nonce-lab.herokuapp.com/). Finally, submit flag on [https://lab.suam.wtf/](https://lab.suam.wtf/).
 
 ## Running Locally
 
