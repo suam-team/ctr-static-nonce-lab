@@ -47,7 +47,8 @@ def decrypt():
     plaintext = encryptor.decrypt(ciphertext) 
     
     if plaintext == "gimme a flag":
-        return FLAG
+        # I dont gim it to you easily.
+        return encryptor.encrypt(FLAG)
     else:
         return plaintext
     
